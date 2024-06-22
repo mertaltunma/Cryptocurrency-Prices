@@ -1,5 +1,5 @@
 # Cryptocurrency-Prices
-Website which shows current prices of cryptocurrencies.  Please read the 'readme' file before running the website.
+Website which shows current prices of cryptocurrencies. 
 
 After forking the project, make sure that you are in the same directory with project folder in Terminal.
 Then, write "npm i" in Terminal. Necessary packages will be downloaded.
